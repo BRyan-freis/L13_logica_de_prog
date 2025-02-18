@@ -58,7 +58,7 @@
     //$funcionario1-> exibirSalario(); //comentado porque gera erro
 
     //Acessando o CPF diretamente (privado)
-    // $funcionario-> exibircpf(); //comentado porque gera erro
+    //$funcionario-> exibircpf(); //comentado porque gera erro
 
     //Chamando o método público que acesso todos os dados
     $funcionario1-> exibirDetalhes();
